@@ -1,0 +1,15 @@
+/Users/ali/Projects/okay/okay/bin/Debug/net6.0/okay
+/Users/ali/Projects/okay/okay/bin/Debug/net6.0/okay.deps.json
+/Users/ali/Projects/okay/okay/bin/Debug/net6.0/okay.runtimeconfig.json
+/Users/ali/Projects/okay/okay/bin/Debug/net6.0/okay.dll
+/Users/ali/Projects/okay/okay/bin/Debug/net6.0/okay.pdb
+/Users/ali/Projects/okay/okay/obj/Debug/net6.0/okay.csproj.AssemblyReference.cache
+/Users/ali/Projects/okay/okay/obj/Debug/net6.0/okay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/okay/okay/obj/Debug/net6.0/okay.AssemblyInfoInputs.cache
+/Users/ali/Projects/okay/okay/obj/Debug/net6.0/okay.AssemblyInfo.cs
+/Users/ali/Projects/okay/okay/obj/Debug/net6.0/okay.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/okay/okay/obj/Debug/net6.0/okay.dll
+/Users/ali/Projects/okay/okay/obj/Debug/net6.0/refint/okay.dll
+/Users/ali/Projects/okay/okay/obj/Debug/net6.0/okay.pdb
+/Users/ali/Projects/okay/okay/obj/Debug/net6.0/okay.genruntimeconfig.cache
+/Users/ali/Projects/okay/okay/obj/Debug/net6.0/ref/okay.dll
